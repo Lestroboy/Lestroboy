@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lestroboy.
 - 👀 I’m interested in developing game's. 
-- 🌱 I’m done with HTML,C++ and currently learing Java.
+- 🌱 I’m know HTML(not a programming language in true sense,I know),C++ and currently learing Java.
 - 💞️ I have side pssions like digital drawing,animations,writing novels,making videos and many more which i can't really tell. 
 - 📫 How to reach me well, my Instagram id-@lestroboy
 
