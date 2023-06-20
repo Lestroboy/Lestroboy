@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lestroboy.
-- 👀 I cherish making games :) 
-- 🌱 I’m know HTML(not a programming language in true sense,I know),C++,JAVA and Python.
-- 💞️ I have side pssions like digital drawing,animations,writing novels,making videos, sleeping and many more which i can't really tell. 
+- 👋 Hi, I’m Lestro -+)
+- 👀 I relish making games :) 
+- 🌱 I learned HTML, CSS, JavaScript, C++, JAVA and Python.
+- 💞️ I love doing digital drawings, animating, writing novels, making videos on internet, cooking and quite more. 
 - 📫 How to reach me well, my Instagram id-@lestroboy
 
 <!---
